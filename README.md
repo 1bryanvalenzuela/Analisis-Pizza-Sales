@@ -1,4 +1,4 @@
-# Pizza-Sales-Estudio
+# Analisis-Pizza-Sales
 Analisis de datos de una publicacion de Kaggle (Pizza Sales Dataset, 2016)  
 
 Realizado en SQL y Python  
